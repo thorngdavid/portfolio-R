@@ -4,7 +4,7 @@ import Style from './footer.module.css';
 const footer = () => {
   return (
     <footer className={Style.footer}>
-        <pre> &copy; 2024  David ' s Portfolio</pre>
+        <pre> &copy; 2026  David ' s Portfolio</pre>
     </footer>
   );
 };
